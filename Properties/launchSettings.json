@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Scripts": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\adan\\3D Objects\\Impresora 3D\\G-Code\\color.gcode\""
+    }
+  }
+}
